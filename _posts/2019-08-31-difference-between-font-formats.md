@@ -1,19 +1,21 @@
 ---
 layout: post
-title: Difference between font formats
+title: Management between font formats
 description: What is the difference between various font formats?
 summary: What is the difference between various font formats?
 comments: true
-tags: [typography]
+tags: [typography] [apple]
 ---
 
-# h1
+# Fő cim
 
-## h2
+## Alcim
 
-### h3
+### Al-alcim
 
 ***
+
+Ez egy egyszerűpéldamondat leiras, ami nem szol semmiről csak arról hogy teljenek a sorok és megnézzem hogy a szerkesztett szöveg hogyan viselkedik élő környezetben a honlapon. Ez arra is szolgál hogy lássam ténylegesen hogyan sikerült megszerkesztenem a markdawn röviden .md fájlt amit program megjelenit a böngészőben.
 
 Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. [Banh](//#) mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.
 
