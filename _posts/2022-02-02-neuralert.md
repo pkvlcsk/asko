@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neuralert: The AI solution for stroke detection and prevention
+title: Neuralert is the AI solution for stroke detection and prevention
 description:
 summary:
 comments: false
