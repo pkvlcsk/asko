@@ -30,6 +30,8 @@ AI can enhance the interaction between doctors and patients by providing virtual
 
 AI can help reduce the administrative burden of healthcare professionals by automating the process of creating, storing, and retrieving medical records. For example, AI can help extract relevant information from unstructured data sources, such as handwritten notes, images, or audio files.
 
-## Remotely treating patients: AI can enable the delivery of healthcare services to patients who are not physically present in a healthcare facility, such as those who live in rural areas, have mobility issues, or are under quarantine. For example, AI can help monitor patients' vital signs and alert clinicians if they need intervention.
+## Remotely treating patients: 
+
+AI can enable the delivery of healthcare services to patients who are not physically present in a healthcare facility, such as those who live in rural areas, have mobility issues, or are under quarantine. For example, AI can help monitor patients' vital signs and alert clinicians if they need intervention.
 
 These are some of the ways that AI can help in the medical industry. However, there are also challenges and risks associated with the use of AI in healthcare, such as ethical issues, data privacy and security, human oversight and accountability, and social and economic implications. Therefore, it is important to ensure that AI is developed and deployed in a responsible and trustworthy manner that respects human dignity, autonomy, and rights.
