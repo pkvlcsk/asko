@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Esper Bionics: hand that mimics natural movement
+title: Esper Bionics - hand that mimics natural movement
 description:
 summary:
 comments: false
