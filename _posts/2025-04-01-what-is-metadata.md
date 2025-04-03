@@ -40,4 +40,4 @@ Final conclusions:
 
 Metadata plays a vrucial role in organizing, assessing, and utilizing digital resources efficently.While it enhances functionality and connectivity in the digital world, its sensitivity necessitates robust protection measures. Moreover, its cooercial potential makes it a key resource for business aiming to leverage datadriven insights. Understanding and managing metadata responsibility is essential in today's interconnnected landscape.
 
-ABC
+805e8fa25b60c0ba407482e6e5c2937274440f7129f3068c2cb0f93b46d72b79a6f
